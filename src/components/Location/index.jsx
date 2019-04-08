@@ -7,6 +7,7 @@ const Location = () => {
                 width="100%"
                 height="450px"
                 frameBorder="0"
+                title="EventExpo"
                 allowFullScreen>
             </iframe>
             <div className="location_tag">
