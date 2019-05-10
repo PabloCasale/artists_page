@@ -41,7 +41,7 @@ class Discount extends Component {
 
                     <Slide right>
                         <div className="discount_description">
-                            <h3>Buy before 20/18/19 for bonus</h3>
+                            <h3>Buy before 16/12/19 for bonus</h3>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi nulla rem soluta, eius vel mollitia!</p>
                             <MyButton text="BUY" bck="#ffa800" color="#fff" link="https://www.google.com/"/>
                         </div>

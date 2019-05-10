@@ -98,12 +98,13 @@ footer .footer_copyright {
 
 .artist_name .wrapper {
     border: 2px solid white;
-    height: 121px;
-    margin: 6px;
+    height: 105px;
+    margin: 5px;
     text-align: center;
     color: #fff;
-    font-size: 40px;
-    padding: 21px 70px 0px 70px;
+    background-color: #5d5d5da8;
+    font-size: 50px;
+    padding: 40px 0px 0px 0px;
     text-transform: uppercase;
 }
 

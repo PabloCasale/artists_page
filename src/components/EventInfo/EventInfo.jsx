@@ -26,7 +26,7 @@ const EventInfo = () => {
                                     Event Date & Time
                                 </div>
                                 <div className="vn_desc">
-                                    7 august 2018 @10.00 pm
+                                    16 December 2019 @10.00 pm
                                 </div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@ const EventInfo = () => {
                                     Event Location
                                 </div>
                                 <div className="vn_desc">
-                                    22 Acacia Avenue, London, 9845
+                                    660 Peachtree St NE, Atlanta, 9845
                                 </div>
                             </div>
                         </div>

@@ -11,7 +11,7 @@ const Featured = () => {
 
             <div className="artist_name">
                 <div className="wrapper">
-                    James Hetfield
+                    Presenting
                 </div>
             </div>
             

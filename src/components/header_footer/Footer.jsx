@@ -5,7 +5,7 @@ const Footer = () => {
         <footer className="bck_red">
             <Fade delay={500}>
                 <div className="font_righteous footer_logo_venue">
-                    EXPO
+                    Guitar Center Shows
                 </div>
                 <div className="footer_copyright">
                     PabloDevX &copy; 2019

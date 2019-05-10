@@ -45,10 +45,13 @@ class Pricing extends Component {
             <div className="bck_black">
                 <div className="center_wrapper pricing_section">
                     <h2>Pricing</h2>
+                    <hr/>
                     <div className="pricing_wrapper">
                         {this.showBoxes()}
                     </div>
+                    <div style={{marginBottom:"75px"}}></div>
                 </div>
+                
             </div>
             
         );
