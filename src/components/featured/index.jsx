@@ -11,7 +11,7 @@ const Featured = () => {
 
             <div className="artist_name">
                 <div className="wrapper">
-                    Presenting
+                    Guitar Heroes
                 </div>
             </div>
             
