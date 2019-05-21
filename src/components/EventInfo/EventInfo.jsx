@@ -11,6 +11,7 @@ const EventInfo = () => {
       <div className="bck_black">
         <Container style={{border:"solid red 2px"}}>
           <Row className="pt-5" style={{border:"solid yellow 2px"}}>
+          <Col className="col-12 d-flex justify-content-center show_info">SHOWCASE</Col>
             <Col className="mt-5 mb-5 d-flex justify-content-center" style={{border:"solid green 2px"}}>
               <Zoom duration={500}>
                 <div className="vn_item">
