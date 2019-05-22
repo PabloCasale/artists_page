@@ -29,14 +29,14 @@ const Carrousel = () => {
                     {/* <Image className="img-fluid" src={`url(${slide_one})`}/> */}
                     
                     <div className="carrousel_image" style={{ 
-                        background:`url(${slide_one})`,
+                        background:`url(${slide_one})center center`,
                         height:`${window.innerHeight}px`
                         }}></div>
                     
                 </div>
                 <div>
                     <div className="carrousel_image" style={{ 
-                        background:`url(${slide_two})`,
+                        background:`url(${slide_two}) center center`,
                         height:`${window.innerHeight}px`
                         }}>
 
@@ -44,7 +44,7 @@ const Carrousel = () => {
                 </div>
                 <div>
                     <div className="carrousel_image" style={{ 
-                        background:`url(${slide_three})`,
+                        background:`url(${slide_three})center center`,
                         height:`${window.innerHeight}px`
                         }}>
 
